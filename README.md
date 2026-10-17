@@ -29,7 +29,7 @@ Screenshot Aplikasi
 Screenshot aplikasi akan ditambahkan di bagian ini
 
 ## 📸 Tangkapan Layar (Screenshot)
-| Layar 1 (Beranda) | Layar 2 (Detail karakter) |
+| Layar 1 (Beranda) | Layar 2 (Detail karakter) 
 | :---: | :---: |
 | <img src="WhatsApp Image 2026-10-17 at 19.53.25.jpeg" width="250"/> | <img src="WhatsApp Image 2026-10-17 at 19.53.23.jpeg" width="250"/> |
  Kesimpulan
