@@ -32,6 +32,7 @@ Screenshot aplikasi akan ditambahkan di bagian ini
 | Layar 1 (Beranda) | Layar 2 (Detail karakter) 
 | :---: | :---: |
 | <img src="WhatsApp Image 2026-10-17 at 19.53.25.jpeg" width="250"/> | <img src="WhatsApp Image 2026-10-17 at 19.53.23.jpeg" width="250"/> |
+
  Kesimpulan
 
 Project ini dibuat untuk memenuhi tugas pengembangan aplikasi Android dan mempraktikkan penggunaan Kotlin serta Jetpack Compose.
